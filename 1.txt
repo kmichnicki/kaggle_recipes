@@ -1,0 +1,43 @@
+Meeting notes:
+
+Promote Hackathon
+
+Data science for business - a book with applications
+
+Devesh is working on a crime Kaggle competition. 
+Devesh is consulting a politician staff in SF.
+
+Zach is reading "Doing Data Science"
+
+Coursera course on Machine learning starting on Monday from UW.
+
+
+
+Sentiment Analysis
+
+Classification with a neural network
+
+Recurrent neural networks
+
+PCA
+	Pros:
+	Preprocess information
+	Reduces the number of variables. Finds the most important. 
+
+	Cons:
+	Lose interprettability. Features are combinations.
+
+Random forest
+	Pros:
+	fast for classification in a first
+	
+	Cons:
+	slow for production
+
+TFIDF
+
+Number of the ingredients could be features.
+
+Counting quantities of ingredients is a good idea!
+
+
